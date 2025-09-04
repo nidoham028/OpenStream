@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_quality_keys">
+        <item>@string/image_quality_none_key</item>
+        <item>@string/image_quality_low_key</item>
+        <item>@string/image_quality_medium_key</item>
+    </string-array>
+    <color name="md_theme_background">#FFFFFF</color>
+    <color name="md_theme_error">#B00020</color>
+    <color name="md_theme_errorContainer">#FCD8DF</color>
+    <color name="md_theme_inverseOnSurface">#FFFFFF</color>
+    <color name="md_theme_inversePrimary">#FF8A80</color>
+    <color name="md_theme_inverseSurface">#303030</color>
+    <color name="md_theme_onBackground">#000000</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#370617</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#410000</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_onSecondaryContainer">#1C1C1C</color>
+    <color name="md_theme_onSurface">#000000</color>
+    <color name="md_theme_onSurfaceVariant">#424242</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_onTertiaryContainer">#001A40</color>
+    <color name="md_theme_outline">#757575</color>
+    <color name="md_theme_outlineVariant">#E0E0E0</color>
+    <color name="md_theme_primary">#FF0000</color>
+    <color name="md_theme_primaryContainer">#FFCDD2</color>
+    <color name="md_theme_scrim">#000000</color>
+    <color name="md_theme_secondary">#606060</color>
+    <color name="md_theme_secondaryContainer">#E0E0E0</color>
+    <color name="md_theme_shadow">#000000</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_surfaceVariant">#F5F5F5</color>
+    <color name="md_theme_tertiary">#2979FF</color>
+    <color name="md_theme_tertiaryContainer">#BBDEFB</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="avatar_size">64dp</dimen>
+    <dimen name="nav_header_padding_bottom">16dp</dimen>
+    <dimen name="nav_header_padding_horizontal">16dp</dimen>
+    <dimen name="nav_header_padding_top">24dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="deleted_downloads_toast">
+        <item quantity="one">%s download deleted</item>
+        <item quantity="other">%s downloads deleted</item>
+    </plurals>
+    <plurals name="download_finished_notification">
+        <item quantity="one">%s download finished</item>
+        <item quantity="other">%s downloads finished</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="listening">
+        <item quantity="one">%s listening</item>
+        <item quantity="other">%s listening</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="replies">
+        <item quantity="one">%s reply</item>
+        <item quantity="other">%s replies</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="subscribers">
+        <item quantity="one">%s subscriber</item>
+        <item quantity="other">%s subscribers</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videos</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="one">%s view</item>
+        <item quantity="other">%s views</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="one">%s watching</item>
+        <item quantity="other">%s watching</item>
+    </plurals>
+    <string name="all">All</string>
+    <string name="app_language_key">app_language</string>
+    <string name="app_name">OpenTube</string>
+    <string name="audio_track_name">%1$s (%2$s)</string>
+    <string name="audio_track_type_descriptive">descriptive</string>
+    <string name="audio_track_type_dubbed">dubbed</string>
+    <string name="audio_track_type_original">original</string>
+    <string name="audio_track_type_secondary">secondary</string>
+    <string name="back_button" translatable="false">Back</string>
+    <string name="btn_nav_community">Community</string>
+    <string name="btn_nav_home">Home</string>
+    <string name="btn_nav_library">Library</string>
+    <string name="btn_nav_subscription">Subscription</string>
+    <string name="cast_button" translatable="false">Cast</string>
+    <string name="cc_button" translatable="false">CC</string>
+    <string name="channel_avatar" translatable="false">Channel Avatar</string>
+    <string name="channels">Channels</string>
+    <string name="comment_button">Comment</string>
+    <string name="content_country_key">content_country</string>
+    <string name="content_language_key">content_language</string>
+    <string name="current_service_key">service</string>
+    <string name="default_localization_key">default</string>
+    <string name="default_service_value">@string/youtube</string>
+    <string name="default_user_email">user@example.com</string>
+    <string name="default_user_name">Hello User!</string>
+    <string name="dislike_button">Dislike</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="expand_comments" translatable="false">Expand Comments</string>
+    <string name="forward_10_seconds" translatable="false">Forward 10 Seconds</string>
+    <string name="image_quality_default">high</string>
+    <string name="image_quality_high_key">image_quality_high</string>
+    <string name="image_quality_key">image_quality</string>
+    <string name="image_quality_low_key">image_quality_low</string>
+    <string name="image_quality_medium_key">image_quality_medium</string>
+    <string name="image_quality_none_key">image_quality_none</string>
+    <string name="import_youtube_instructions">Import YouTube subscriptions from Google takeout:
+        \n
+        \n1. Go to this URL: %1$s
+        \n2. Log in when asked
+        \n3. Click on ‘All data included’, then on ‘Deselect all’, then select only ‘subscriptions’ and click ‘OK’
+        \n4. Click on ‘Next step’ and then on ‘Create export’
+        \n5. Click on the ‘Download’ button after it appears
+        \n6. Click on IMPORT FILE below and select the downloaded .zip file
+        \n7. [If the .zip import fails] Extract the .csv file (usually under ‘YouTube and YouTube Music/subscriptions/subscriptions.csv’), click on IMPORT FILE below and select the extracted csv file</string>
+    <string name="infinite_videos">Infinite videos</string>
+    <string name="infinite_videos_mini">∞</string>
+    <string name="last_used_preferences_version">last_used_preferences_version</string>
+    <string name="like_button">Like</string>
+    <string name="more_options">More</string>
+    <string name="more_than_100_videos">100+ videos</string>
+    <string name="more_than_100_videos_mini">100+</string>
+    <string name="no_one_listening">No one listening</string>
+    <string name="no_one_watching">No one watching</string>
+    <string name="no_subscribers">No subscribers</string>
+    <string name="no_videos">No videos</string>
+    <string name="no_views">No views</string>
+    <string name="orientation_toggle" translatable="false">Rotate Screen</string>
+    <string name="play_pause_button" translatable="false">Play Pause</string>
+    <string name="playlists">Playlist</string>
+    <string name="recaptcha_cookies_key">recaptcha_cookies</string>
+    <string name="recaptcha_request_toast">reCAPTCHA challenge requested</string>
+    <string name="recaptcha_solve">Solve</string>
+    <string name="replay_10_seconds" translatable="false">Replay 10 Seconds</string>
+    <string name="report_disposed_rx_exceptions_key">report_disposed_rx_exceptions</string>
+    <string name="save_button">Save</string>
+    <string name="saved_tabs_key">saved_tabs_key</string>
+    <string name="search_no_results" translatable="false">No Results</string>
+    <string name="search_no_results_description" translatable="false">No Results Description</string>
+    <string name="settings_button" translatable="false">Settings</string>
+    <string name="share_button">Share</string>
+    <string name="short_billion">B</string>
+    <string name="short_million">M</string>
+    <string name="short_thousand">K</string>
+    <string name="show_image_indicators_key">show_image_indicators</string>
+    <string name="show_meta_info_key">show_meta_info</string>
+    <string name="show_original_time_ago_key">show_original_time_ago</string>
+    <string name="splash_message">Experience a better way to browse YouTube</string>
+    <string name="subtitle_activity_recaptcha">Press \"Done\" when solved</string>
+    <string name="title_activity_recaptcha">reCAPTCHA challenge</string>
+    <string name="unknown_audio_track">Unknown audio track</string>
+    <string name="upload_date_text">Uploaded on %s</string>
+    <string name="user_avatar">User profile picture</string>
+    <string name="videos_string">videos_string</string>
+    <string name="youtube">YouTube</string>
+    <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_onPrimaryContainer</item>
+
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_onSecondaryContainer</item>
+
+        <item name="colorTertiary">@color/md_theme_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_onTertiaryContainer</item>
+
+        
+        <item name="android:colorBackground">@color/md_theme_background</item>
+        <item name="colorOnBackground">@color/md_theme_onBackground</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_onSurfaceVariant</item>
+
+        
+        <item name="colorError">@color/md_theme_error</item>
+        <item name="colorOnError">@color/md_theme_onError</item>
+        <item name="colorErrorContainer">@color/md_theme_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/md_theme_onErrorContainer</item>
+
+        
+        <item name="colorOutline">@color/md_theme_outline</item>
+        <item name="colorOutlineVariant">@color/md_theme_outlineVariant</item>
+    </style>
+</resources>

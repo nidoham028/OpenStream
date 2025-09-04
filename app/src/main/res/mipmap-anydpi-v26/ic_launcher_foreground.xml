@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- ছোট করা সাদা প্লে বাটন -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,38 L70,54 L46,70 Z"/>
+</vector>

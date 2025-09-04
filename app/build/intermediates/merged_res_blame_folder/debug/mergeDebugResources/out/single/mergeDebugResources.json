@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_stream.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_stream.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/menu_topbar_menu.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/menu/topbar_menu.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_feed.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_feed.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_menu.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_close.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_bookmark.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_bookmark.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_circle_background.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_activity_recaptcha.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_recaptcha.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_activity_splash.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/xml_backup_rules.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_fragment_favorite.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/menu_menu_recaptcha.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/menu/menu_recaptcha.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/mipmap-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_subscription.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_subscription.xml"
+    },
+    {
+        "merged": "com.nidoham.openstream.app-debug-41:/drawable_ic_smart_display.xml.flat",
+        "source": "com.nidoham.openstream.app-main-43:/drawable/ic_smart_display.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_info.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/mipmap-anydpi-v26_ic_launcher_background.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/mipmap-anydpi-v26/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nidoham.openstream.app-debug-41:/drawable_ic_circle.xml.flat",
+        "source": "com.nidoham.openstream.app-main-43:/drawable/ic_circle.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/menu_drawer_menu.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_done.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_live.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_live.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_settings.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_activity_search.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_search.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_nav_header.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_account_circle.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_account_circle.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_fragment_empty.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_empty.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_arrow_back.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_help.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_fragment_feed.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_feed.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_fragment_subscription.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_subscription.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_search.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/drawable_ic_option.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/drawable/ic_option.xml"
+    },
+    {
+        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-debug-41:/layout_fragment_latest.xml.flat",
+        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_latest.xml"
+    }
+]

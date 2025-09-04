@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="youtube">YouTube</string>
+    
+    <string name="import_youtube_instructions">Import YouTube subscriptions from Google takeout:
+        \n
+        \n1. Go to this URL: %1$s
+        \n2. Log in when asked
+        \n3. Click on ‘All data included’, then on ‘Deselect all’, then select only ‘subscriptions’ and click ‘OK’
+        \n4. Click on ‘Next step’ and then on ‘Create export’
+        \n5. Click on the ‘Download’ button after it appears
+        \n6. Click on IMPORT FILE below and select the downloaded .zip file
+        \n7. [If the .zip import fails] Extract the .csv file (usually under ‘YouTube and YouTube Music/subscriptions/subscriptions.csv’), click on IMPORT FILE below and select the extracted csv file</string>
+
+    <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
+    <string name="recaptcha_cookies_key">recaptcha_cookies</string>
+    <string name="show_meta_info_key">show_meta_info</string>
+    
+    <!-- Add these lines if they don't exist -->
+    <string name="image_quality_key">image_quality</string>
+    <string name="image_quality_default">high</string>
+    <string name="show_image_indicators_key">show_image_indicators</string>
+    <string name="report_disposed_rx_exceptions_key">report_disposed_rx_exceptions</string>
+</resources>

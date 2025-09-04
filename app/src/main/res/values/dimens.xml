@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_header_padding_horizontal">16dp</dimen>
+    <dimen name="nav_header_padding_top">24dp</dimen>
+    <dimen name="nav_header_padding_bottom">16dp</dimen>
+    <dimen name="avatar_size">64dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+</resources>
+
