@@ -15,6 +15,7 @@
     <uses-permission android:name="com.nidoham.openstream.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
+        android:name="com.nidoham.openstream.App"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -39,6 +40,35 @@
         <activity
             android:name="com.nidoham.openstream.activities.SearchActivity"
             android:exported="true" />
+
+        <provider
+            android:name="org.acra.attachment.AcraContentProvider"
+            android:authorities="com.nidoham.openstream.acra.provider"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            android:process=":acra" />
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.nidoham.openstream.com.squareup.picasso"
+            android:exported="false" />
+
+        <service
+            android:name="org.acra.sender.LegacySenderService"
+            android:enabled="@bool/acra_enable_legacy_service"
+            android:exported="false"
+            android:process=":acra" />
+        <service
+            android:name="org.acra.sender.JobSenderService"
+            android:enabled="@bool/acra_enable_job_service"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:process=":acra" />
+
+        <activity
+            android:name="com.jakewharton.processphoenix.ProcessPhoenix"
+            android:exported="false"
+            android:process=":phoenix"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

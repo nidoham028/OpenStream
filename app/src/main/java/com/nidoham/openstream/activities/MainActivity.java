@@ -161,6 +161,7 @@ public class MainActivity extends AppCompatActivity {
         searchItem.setOnMenuItemClickListener(item -> {
             // Start SearchActivity when search icon is clicked
             startActivity(new Intent(MainActivity.this, SearchActivity.class));
+            overridePendingTransition(0, 0);
             return true;
         });
 

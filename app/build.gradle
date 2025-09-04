@@ -26,12 +26,13 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 
     buildFeatures {
         viewBinding true
+        buildConfig true
     }
 }
 
@@ -58,4 +59,44 @@ dependencies {
      * Memory Management Special Dependencies
      */
      implementation 'androidx.preference:preference:1.2.1'
+     
+     /*
+      * Image Loading Dependencies
+      */
+     implementation "com.squareup.picasso:picasso:2.8"
+     
+     /*
+      * Reactive extensions for Java VM
+      */
+     implementation "io.reactivex.rxjava3:rxjava:3.1.8"
+     implementation "io.reactivex.rxjava3:rxandroid:3.0.2"
+     implementation "com.jakewharton.rxbinding4:rxbinding:4.0.0"
+     
+     /*
+      * ACRA Crushed Handling Features
+      */
+     implementation "ch.acra:acra-core:5.11.3"
+     
+     /*
+      * Time Management Dependencies
+      */
+     implementation "org.ocpsoft.prettytime:prettytime:5.0.8.Final"
+     
+     /*
+      * Phonix Debugger Dependencies
+      */
+     implementation 'com.jakewharton:process-phoenix:2.1.2'
+     
+     /*
+      *  Live Font Bridge Dependcies
+      */
+     implementation 'com.github.livefront:bridge:v2.0.2'
+     implementation "com.evernote:android-state:1.4.1"
+     annotationProcessor "com.evernote:android-state-processor:1.4.1"
+     
+     /*
+      * Debug bridge for Android
+      */
+     debugImplementation "com.facebook.stetho:stetho:1.6.0"
+     debugImplementation "com.facebook.stetho:stetho-okhttp3:1.6.0"
 }

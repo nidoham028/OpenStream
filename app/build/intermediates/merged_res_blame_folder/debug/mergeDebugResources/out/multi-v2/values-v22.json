@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-39:/values-v22/values-v22.xml",
+            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-40:/values-v22/values-v22.xml",
             "map": [
                 {
                     "source": "/data/data/jkas.androidpe/files/home/.gradle/caches/8.10.2/transforms/9a3a396f4c715a047e661a895f24c282/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
@@ -12,6 +12,24 @@
                         "endLines": "2,3,8,13",
                         "endColumns": "74,86,12,12",
                         "endOffsets": "125,212,482,764"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "165,240,327,597",
+                        "endLines": "4,5,10,15",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "235,322,592,874"
+                    }
+                },
+                {
+                    "source": "/data/data/jkas.androidpe/files/home/.gradle/caches/8.10.2/transforms/d910bc9c747f65e82263e2727a49afc9/transformed/acra-core-5.11.3/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,56",
+                        "endOffsets": "103,160"
                     }
                 }
             ]

@@ -1403,6 +1403,8 @@ attr yearStyle
 attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool acra_enable_job_service
+bool acra_enable_legacy_service
 bool config_materialPreferenceIconSpaceReserved
 bool mtrl_btn_textappearance_all_caps
 color abc_background_cache_hint_selector_material_dark
@@ -1500,6 +1502,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color ic_launcher_background
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -2187,6 +2190,8 @@ color nnf_dark_separator_color
 color nnf_light_separator_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color placeholder_background
+color placeholder_foreground
 color preference_fallback_accent_color
 color primary_dark_material_dark
 color primary_dark_material_light
@@ -3010,6 +3015,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen player_notification_thumbnail_width
 dimen preference_dropdown_padding_start
 dimen preference_icon_minWidth
 dimen preference_seekbar_padding_horizontal
@@ -3151,6 +3157,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_newpipe_triangle_white
 drawable ic_option
 drawable ic_search
 drawable ic_search_black_24
@@ -3218,6 +3225,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable newpipe_tv_banner
 drawable nnf_ic_create_new_folder_white_24dp
 drawable nnf_ic_folder_black_48dp
 drawable nnf_ic_save_black_24dp
@@ -3234,6 +3242,10 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable placeholder_channel_banner
+drawable placeholder_person
+drawable placeholder_thumbnail_playlist
+drawable placeholder_thumbnail_video
 drawable preference_list_divider_material
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -4076,6 +4088,9 @@ string all
 string androidx_startup
 string app_language_key
 string app_name
+string app_update_notification_channel_description
+string app_update_notification_channel_id
+string app_update_notification_channel_name
 string appbar_scrolling_view_behavior
 string audio_track_name
 string audio_track_type_descriptive
@@ -4122,12 +4137,18 @@ string drawer_close
 string drawer_open
 string error_a11y_label
 string error_icon_content_description
+string error_report_channel_description
+string error_report_channel_id
+string error_report_channel_name
 string expand_button_title
 string expand_comments
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string forward_10_seconds
+string hash_channel_description
+string hash_channel_id
+string hash_channel_name
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string image_quality_default
@@ -4262,6 +4283,9 @@ string no_subscribers
 string no_videos
 string no_views
 string not_set
+string notification_channel_description
+string notification_channel_id
+string notification_channel_name
 string orientation_toggle
 string password_toggle_content_description
 string path_password_eye
@@ -4296,6 +4320,9 @@ string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string splash_message
 string status_bar_notification_info_overflow
+string streams_notification_channel_description
+string streams_notification_channel_id
+string streams_notification_channel_name
 string subtitle_activity_recaptcha
 string summary_collapsed_preference_list
 string title_activity_recaptcha

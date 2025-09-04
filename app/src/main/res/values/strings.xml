@@ -51,4 +51,24 @@
     <string name="videos_string">videos_string</string>
     <string name="all">All</string>
     
+    <string name="notification_channel_id">main_channel</string>
+    <string name="notification_channel_name">Main Notifications</string>
+    <string name="notification_channel_description">Main notification channel</string>
+
+    <string name="app_update_notification_channel_id">update_channel</string>
+    <string name="app_update_notification_channel_name">Update Notifications</string>
+    <string name="app_update_notification_channel_description">App update notifications</string>
+
+    <string name="hash_channel_id">hash_channel</string>
+    <string name="hash_channel_name">Hash Notifications</string>
+    <string name="hash_channel_description">High importance hash notifications</string>
+
+    <string name="error_report_channel_id">error_channel</string>
+    <string name="error_report_channel_name">Error Reports</string>
+    <string name="error_report_channel_description">Crash and error reports</string>
+
+    <string name="streams_notification_channel_id">streams_channel</string>
+    <string name="streams_notification_channel_name">Stream Notifications</string>
+    <string name="streams_notification_channel_description">Stream updates notifications</string>
+    
 </resources>

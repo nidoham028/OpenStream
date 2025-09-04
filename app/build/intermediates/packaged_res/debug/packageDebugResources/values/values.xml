@@ -5,6 +5,7 @@
         <item>@string/image_quality_low_key</item>
         <item>@string/image_quality_medium_key</item>
     </string-array>
+    <color name="ic_launcher_background">#CD201F</color>
     <color name="md_theme_background">#FFFFFF</color>
     <color name="md_theme_error">#B00020</color>
     <color name="md_theme_errorContainer">#FCD8DF</color>
@@ -34,11 +35,14 @@
     <color name="md_theme_surfaceVariant">#F5F5F5</color>
     <color name="md_theme_tertiary">#2979FF</color>
     <color name="md_theme_tertiaryContainer">#BBDEFB</color>
+    <color name="placeholder_background">#999999</color>
+    <color name="placeholder_foreground">#6C6C6C</color>
     <color name="white">#FFFFFF</color>
     <dimen name="avatar_size">64dp</dimen>
     <dimen name="nav_header_padding_bottom">16dp</dimen>
     <dimen name="nav_header_padding_horizontal">16dp</dimen>
     <dimen name="nav_header_padding_top">24dp</dimen>
+    <dimen name="player_notification_thumbnail_width">64dp</dimen>
     <dimen name="spacing_small">8dp</dimen>
     <dimen name="spacing_tiny">4dp</dimen>
     <plurals name="days">
@@ -92,6 +96,9 @@
     <string name="all">All</string>
     <string name="app_language_key">app_language</string>
     <string name="app_name">OpenTube</string>
+    <string name="app_update_notification_channel_description">App update notifications</string>
+    <string name="app_update_notification_channel_id">update_channel</string>
+    <string name="app_update_notification_channel_name">Update Notifications</string>
     <string name="audio_track_name">%1$s (%2$s)</string>
     <string name="audio_track_type_descriptive">descriptive</string>
     <string name="audio_track_type_dubbed">dubbed</string>
@@ -117,8 +124,14 @@
     <string name="dislike_button">Dislike</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
+    <string name="error_report_channel_description">Crash and error reports</string>
+    <string name="error_report_channel_id">error_channel</string>
+    <string name="error_report_channel_name">Error Reports</string>
     <string name="expand_comments" translatable="false">Expand Comments</string>
     <string name="forward_10_seconds" translatable="false">Forward 10 Seconds</string>
+    <string name="hash_channel_description">High importance hash notifications</string>
+    <string name="hash_channel_id">hash_channel</string>
+    <string name="hash_channel_name">Hash Notifications</string>
     <string name="image_quality_default">high</string>
     <string name="image_quality_high_key">image_quality_high</string>
     <string name="image_quality_key">image_quality</string>
@@ -146,6 +159,9 @@
     <string name="no_subscribers">No subscribers</string>
     <string name="no_videos">No videos</string>
     <string name="no_views">No views</string>
+    <string name="notification_channel_description">Main notification channel</string>
+    <string name="notification_channel_id">main_channel</string>
+    <string name="notification_channel_name">Main Notifications</string>
     <string name="orientation_toggle" translatable="false">Rotate Screen</string>
     <string name="play_pause_button" translatable="false">Play Pause</string>
     <string name="playlists">Playlist</string>
@@ -167,6 +183,9 @@
     <string name="show_meta_info_key">show_meta_info</string>
     <string name="show_original_time_ago_key">show_original_time_ago</string>
     <string name="splash_message">Experience a better way to browse YouTube</string>
+    <string name="streams_notification_channel_description">Stream updates notifications</string>
+    <string name="streams_notification_channel_id">streams_channel</string>
+    <string name="streams_notification_channel_name">Stream Notifications</string>
     <string name="subtitle_activity_recaptcha">Press \"Done\" when solved</string>
     <string name="title_activity_recaptcha">reCAPTCHA challenge</string>
     <string name="unknown_audio_track">Unknown audio track</string>

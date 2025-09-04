@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-39:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-40:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/sdcard/AideProjects/OpenStream/app/src/main/res/values-night/colors.xml",

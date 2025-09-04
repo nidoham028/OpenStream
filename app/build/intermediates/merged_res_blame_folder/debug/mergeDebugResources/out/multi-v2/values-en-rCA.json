@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-39:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-40:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "/data/data/jkas.androidpe/files/home/.gradle/caches/8.10.2/transforms/9a3a396f4c715a047e661a895f24c282/transformed/appcompat-1.6.1/res/values-en-rCA/values-en-rCA.xml",

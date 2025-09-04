@@ -1,50 +1,42 @@
 [
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/activity_recaptcha.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_recaptcha.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/fragment_empty.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/fragment_empty.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/fragment_favorite.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_favorite.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/nav_header.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/nav_header.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/fragment_subscription.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_subscription.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/fragment_subscription.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/fragment_subscription.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/activity_main.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_main.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/activity_search.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/activity_search.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/activity_search.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_search.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/activity_main.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/fragment_empty.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_empty.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/fragment_favorite.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/fragment_favorite.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/fragment_feed.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_feed.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/fragment_latest.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/fragment_latest.xml"
     },
     {
-        "merged": "com.nidoham.openstream.app-mergeDebugResources-40:/layout/activity_recaptcha.xml",
-        "source": "com.nidoham.openstream.app-main-43:/layout/activity_recaptcha.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/fragment_feed.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/fragment_feed.xml"
     },
     {
-        "merged": "com.nidoham.openstream.app-mergeDebugResources-40:/layout/activity_main.xml",
-        "source": "com.nidoham.openstream.app-main-43:/layout/activity_main.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/activity_splash.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/activity_splash.xml"
     },
     {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/activity_splash.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/activity_splash.xml"
-    },
-    {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/fragment_latest.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/fragment_latest.xml"
-    },
-    {
-        "merged": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-mergeDebugResources-40:/layout/nav_header.xml",
-        "source": "/data/data/jkas.androidpe/files/home/.gradle/daemon/8.10.2/com.nidoham.openstream.app-main-43:/layout/nav_header.xml"
+        "merged": "com.nidoham.openstream.app-mergeDebugResources-41:/layout/activity_recaptcha.xml",
+        "source": "com.nidoham.openstream.app-main-44:/layout/activity_recaptcha.xml"
     }
 ]

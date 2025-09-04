@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-39:/values-et/values-et.xml",
+            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-40:/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/data/data/jkas.androidpe/files/home/.gradle/caches/8.10.2/transforms/38d0781f9a731788af00a954d5f3f37a/transformed/preference-1.2.1/res/values-et/values-et.xml",

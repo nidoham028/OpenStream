@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-39:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.nidoham.openstream.app-mergeDebugResources-40:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
                     "source": "/data/data/jkas.androidpe/files/home/.gradle/caches/8.10.2/transforms/5dfdce6c2d6e043e9a6e1ec884935c02/transformed/material-1.12.0/res/values-large-v4/values-large-v4.xml",

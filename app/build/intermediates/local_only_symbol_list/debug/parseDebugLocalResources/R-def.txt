@@ -1,6 +1,7 @@
 R_DEF: Internal format may change without notice
 local
 array image_quality_keys
+color ic_launcher_background
 color md_theme_background
 color md_theme_error
 color md_theme_errorContainer
@@ -30,11 +31,14 @@ color md_theme_surface
 color md_theme_surfaceVariant
 color md_theme_tertiary
 color md_theme_tertiaryContainer
+color placeholder_background
+color placeholder_foreground
 color white
 dimen avatar_size
 dimen nav_header_padding_bottom
 dimen nav_header_padding_horizontal
 dimen nav_header_padding_top
+dimen player_notification_thumbnail_width
 dimen spacing_small
 dimen spacing_tiny
 drawable circle_background
@@ -49,12 +53,18 @@ drawable ic_help
 drawable ic_info
 drawable ic_live
 drawable ic_menu
+drawable ic_newpipe_triangle_white
 drawable ic_option
 drawable ic_search
 drawable ic_settings
 drawable ic_smart_display
 drawable ic_stream
 drawable ic_subscription
+drawable newpipe_tv_banner
+drawable placeholder_channel_banner
+drawable placeholder_person
+drawable placeholder_thumbnail_playlist
+drawable placeholder_thumbnail_video
 id action_search
 id appBarLayout
 id appbar
@@ -117,6 +127,9 @@ plurals watching
 string all
 string app_language_key
 string app_name
+string app_update_notification_channel_description
+string app_update_notification_channel_id
+string app_update_notification_channel_name
 string audio_track_name
 string audio_track_type_descriptive
 string audio_track_type_dubbed
@@ -142,8 +155,14 @@ string default_user_name
 string dislike_button
 string drawer_close
 string drawer_open
+string error_report_channel_description
+string error_report_channel_id
+string error_report_channel_name
 string expand_comments
 string forward_10_seconds
+string hash_channel_description
+string hash_channel_id
+string hash_channel_name
 string image_quality_default
 string image_quality_high_key
 string image_quality_key
@@ -163,6 +182,9 @@ string no_one_watching
 string no_subscribers
 string no_videos
 string no_views
+string notification_channel_description
+string notification_channel_id
+string notification_channel_name
 string orientation_toggle
 string play_pause_button
 string playlists
@@ -184,6 +206,9 @@ string show_image_indicators_key
 string show_meta_info_key
 string show_original_time_ago_key
 string splash_message
+string streams_notification_channel_description
+string streams_notification_channel_id
+string streams_notification_channel_name
 string subtitle_activity_recaptcha
 string title_activity_recaptcha
 string unknown_audio_track
